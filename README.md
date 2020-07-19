@@ -3,6 +3,7 @@
 [![Build](https://github.com/pschmitt/home-assistant-addons/workflows/Build/badge.svg)](https://github.com/pschmitt/home-assistant-addons/actions?query=workflow%3ABuild)
 
 Home Assistant addons by Philipp Schmitt
+ --- Slightly modified by KK
 
 Add to Home Assistant using the repository url:
 https://github.com/kkartikeya/home-assistant-addons
