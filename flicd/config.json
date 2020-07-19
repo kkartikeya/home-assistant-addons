@@ -1,5 +1,5 @@
 {
-  "image": "pschmitt/home-assistant-addon-{arch}-flicd",
+  "image": "kk/home-assistant-addon-{arch}-flicd",
   "name": "flicd",
   "arch": [
     "armhf",
@@ -7,7 +7,7 @@
     "i386",
     "amd64"
   ],
-  "version": "1.4",
+  "version": "1.41",
   "slug": "flicd",
   "description": "React to flic button presses",
   "startup": "services",
