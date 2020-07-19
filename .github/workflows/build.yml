@@ -13,10 +13,6 @@ jobs:
       matrix:
         addon:
           - flicd
-          - picamera
-          - pilight
-          - zabbix-agent
-          - zabbix-agent2
         arch:
           - aarch64
           - amd64
@@ -25,14 +21,6 @@ jobs:
         exclude:
           - addon: flicd
             arch: aarch64
-          - addon: picamera
-            arch: amd64
-          - addon: picamera
-            arch: i386
-          - addon: pilight
-            arch: aarch64
-          - addon: pilight
-            arch: i386
     steps:
       - name: Checkout repo
         uses: actions/checkout@master
