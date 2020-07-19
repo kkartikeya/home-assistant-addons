@@ -4,8 +4,8 @@
 
 Home Assistant addons by Philipp Schmitt
 
-Add to Home Assistant using the repository url: 
-https://github.com/pschmitt/home-assistant-addons
+Add to Home Assistant using the repository url:
+https://github.com/kkartikeya/home-assistant-addons
 
 ## flicd
 
@@ -33,19 +33,3 @@ For more information, check the Home Assistant Forum at https://community.home-a
 ### Usage
 
 Check the [flic component page at home-assistant.io](https://www.home-assistant.io/components/binary_sensor.flic/).
-
-## picamera
-
-Expose your raspicam.
-
-## pilight
-
-Pilight server.
-
-## zabbix-agent
-
-Zabbix agent.
-
-## zhue
-
-React to Hue Dimmer Switch button presses.
