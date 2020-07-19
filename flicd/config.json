@@ -7,7 +7,7 @@
     "i386",
     "amd64"
   ],
-  "version": "1.42",
+  "version": "1.43",
   "slug": "flicd",
   "description": "React to flic button presses",
   "startup": "services",
